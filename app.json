@@ -14,16 +14,16 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "29308061",
+        "value": "24168862",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "462de3dfc98fd938ef9c6ee31a72d099",
+        "value": "916a9424dd1e58ab7955001ccc0172b3",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "8179633776:AAHD4sbq7RxcPfDWJxKRcBgChlaMccwJzc0",
         "value": "",
         "required": true
       },
@@ -34,27 +34,27 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6762113050",
+        "value": "7824703343",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "value": "",
+        "value": "BQGNrbcApXIsQ9eY2glZxOClmMBawPWL0ISiThMghZ0noGGPHeWIr0Iq3UjDz15wHsrO1-Xkc2HHnTJZU6ZHsJA7OoJ9Ga-id01PS_nophVULnvcBKQ4kbxLYQavPsKpy99lPvokXVXQFhhk284t3NyDWJ7mnXbzDrwGJwXcCW2iijhFjLdNh0lF11PsxAlbLiVJhVHuVYi1Baso-yIosdICsZOcAfUaHkKKztezgLWSbMw8ZmVmXnwZ-6MD0o_jvxv3MUDHKHoJwn6esYKsCqeP_k5QNSIeKl8rKLwgRgd_SgTGkxyOIWPs5SZvkulk6PBtbhDvrJpWjiknh9fNKB2sg4e4cwAAAAGTcRZMAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-AAFSUponQF0xwSCtVuVpyJ3P2n5wKyReSR9TbIFBTTsA_____wzmYEUNP3XY",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "mr emojiii",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002018556839",
+        "value": "-2899331069",
         "required": true
       }
     },
